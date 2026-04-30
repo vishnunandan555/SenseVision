@@ -1,5 +1,9 @@
 # SenseVision
 
+> ## ⚠️ This project is no longer actively developed or maintained.
+
+## Won 1st Prize at the Christ College of Engineering 2nd-semester project expo. Link 
+
 **SenseVision** is an Android application designed to assist visually impaired individuals by capturing images, sending them to an AI server for captioning, and speaking the captions aloud using Text-to-Speech (TTS). It utilizes CameraX and Kotlin on the Android side and connects to a Flask-based Python server on the backend.
 
 ![Poster](https://github.com/user-attachments/assets/8976ff8d-bcb9-49d2-99a5-471a725257ea)
